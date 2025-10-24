@@ -12,7 +12,7 @@ Pequeno projeto feito em **C++ com Qt Framework**, criado para praticar os funda
 - **Qt 6.9.3 (MinGW 64-bit)**
 
 ## 🖥️ Como executar
-1. Baixe o arquivo `.zip` da release mais recente (ex: `v1.0`)
+1. Baixe o arquivo `.zip` da release mais recente (ex: `v0.01`)
 2. Extraia o conteúdo
 3. Execute `QT-Basics.exe`
 
