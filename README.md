@@ -22,6 +22,8 @@ Pequeno projeto feito em **C++ com Qt Framework**, criado para praticar os funda
 Para gerar uma nova build manualmente:
   ```bash
  windeployqt "E:\Cursos\C++\QT Framework\Build\QT-Basics.exe" --dir "E:\Cursos\C++\QT Framework\Build\deploy"
+```
+
 📄 Licença
 
 Projeto feito apenas para estudos e demonstração.
